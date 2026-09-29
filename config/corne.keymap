@@ -1,7 +1,7 @@
 #include <dt-bindings/zmk/rgb.h>
 
 &led_strip {
-    chain-length = <42>;
+    chain-length = <27>;
 };
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/bt.h>
