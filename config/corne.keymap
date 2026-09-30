@@ -21,7 +21,7 @@
 };
 
 &led_strip {
-    chain-length = <27>;
+    chain-length = <6>;
 };
 
 #include <behaviors.dtsi>
